@@ -58,8 +58,7 @@ USAGE:
 	4)number of child&Adults
 	5)And finally Book Reservation,it will store on Database.
 
-
-										Thank you...
+Thank you...
 
 
 

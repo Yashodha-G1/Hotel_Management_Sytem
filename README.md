@@ -3,7 +3,13 @@ The purpose of a Guest Room Booking application is to provide an efficient and o
 
 A Guest Room Booking application written in Django with sqlite as DB engine.
 
+HOME PAGE..
+
 ![room1](https://github.com/Yashodha-G1/cartrabbit_pro_GRB/assets/117884837/3819c6ad-84ae-496c-80d3-ee84db294f9e)
+
+ROOM AVAILABILITY CHEKING..
+
+![room2](https://github.com/Yashodha-G1/cartrabbit_pro_GRB/assets/117884837/f64c6669-520c-42fd-aa16-83b531300f97)
 
 
 INSTALLATION & RUN:
